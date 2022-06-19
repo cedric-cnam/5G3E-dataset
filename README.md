@@ -28,7 +28,7 @@ All data (> 1TB) is accessible at this link: https://box.roc.cnam.fr/index.php/s
 
 This dataset is created and maintained thanks to the support of the following public-funded research projects:
 
-- ANR CANCAN (Content and Context based Adaptation in Mobile Networks): http://cancan.roc.cnam.fr. Contract nb: ANR-18-CE25-0011).
-- H2020 AI@EDGE (A Secure and Reusable Artificial Intelligence Platform for Edge Computing in Beyond 5G Networks) project: https://aiatedge.eu. Grant nb. 101015922).
+- ANR CANCAN (Content and Context based Adaptation in Mobile Networks): http://cancan.roc.cnam.fr. Contract nb: ANR-18-CE25-0011.
+- H2020 AI@EDGE (A Secure and Reusable Artificial Intelligence Platform for Edge Computing in Beyond 5G Networks) project: https://aiatedge.eu. Grant nb. 101015922.
 - AMI-5G INFLUENCE project.
 
