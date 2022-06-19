@@ -1,3 +1,5 @@
+**5G3E (5G End-to-End Emulation) dataset
+
 The 5G3E (5G End-to-End Emulation) dataset contains monitoring metrics of a virtualized 5G infrastructure.
 The dataset is created using real traffic traces from a cellular operator over a period of 14 days, injected over an emulated 5G platform including emulated radio access and 5G core network. The possible usages of the dataset include, but are not limited to, learning and data analysis in relation to novel network automation architectures, protocols and algorithms.
 
@@ -16,13 +18,14 @@ Any usage of the 5G3E dataset leading to any form of publication (private or pub
 
 ** DATASET DESCRIPTION
 
-The dataset contains time-series system metrics, built at different sampling rates, related to the ob-servation of multiple resources involved in 5G network operation: radio, computing and network resources. The variety of collectedfeatures  ranges  from  radio  front-end  metrics  to  physical  serveroperating system and network function metrics. Detailed description is presented in the article "An Open Dataset for Beyond-5G Data-drivenNetwork Automation Experiments".
+The dataset contains time-series system metrics, built at different sampling rates, related to the ob-servation of multiple resources involved in 5G network operation: radio, computing and network resources. The variety of collected features  ranges  from  radio  front-end  metrics  to  physical  serveroperating system and network function metrics. A detailed description is given in the paper above.
 
 
 ** DATASET DOWNLOAD
 
 All data (> 1TB) is accessible at this link: https://box.roc.cnam.fr/index.php/s/43sUnwnlD6lhsfI
 
+Write us if need any additional information.
 
 ** ACKNOWLEDGEMENT
 
