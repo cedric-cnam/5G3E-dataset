@@ -11,7 +11,7 @@ The dataset creation process and the dataset general characteristics are decribe
 "An Open Dataset for Beyond-5G Data-drivenNetwork Automation Experiments", 
 by Dung Chi Phung, Nour-El-Houda Yellas, Salah Bin Ruba, Stefano Secci, 
 Cnam, Paris, France.
-In 6GNet 2022, nb: hal-03698732, July 2022. https://hal.archives-ouvertes.fr/hal-03698732
+In 6GNet 2022 conference, nb: hal-03698732, July 2022. https://hal.archives-ouvertes.fr/hal-03698732
 <!-- HAL report, nb: hal-03698732, July 2022. https://hal.archives-ouvertes.fr/hal-03698732]-->
 
 Any usage of the 5G3E dataset leading to any form of publication (private or public) should cite the above paper for correct referencing.
@@ -24,7 +24,7 @@ The dataset contains time-series system metrics, built at different sampling rat
 
 ** DATASET DOWNLOAD
 
-All data (> 1TB) is accessible at this link: 
+All data (> 1TB) is accessible at these links: 
 
 [Training set - day 1](https://box.roc.cnam.fr/index.php/s/Rca6HcleNsEpXMs)
 
@@ -55,6 +55,11 @@ All data (> 1TB) is accessible at this link:
 [Training set - day 14](https://box.roc.cnam.fr/index.php/s/9LvDQ1VVevnHf9a)
 
 [Test set day](https://box.roc.cnam.fr/index.php/s/jB6vWkmSqWixOm6)
+
+
+Sample data for one hour duration is accessible at this link:
+
+https://box.roc.cnam.fr/index.php/s/4WYrRW6KlxTlJ6b
 
 
 Write us if need any additional information.
