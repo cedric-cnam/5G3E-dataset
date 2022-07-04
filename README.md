@@ -29,9 +29,9 @@ Additional versions with additional features (protocols, network functions, with
 Version number: 1
 Release date: June 26, 2022.
 
-We include in this folder a sample of a 30' collection duration.
+We include in this folder a sample of a 10' collection duration ; please do not download as bulk as github as download limitation policies preventing large downloads by many persons.
 
-In addition, the 15-days dataset is fragmented in one zip file per day at these links: 
+The 15-days dataset is fragmented in one zip file per day at these links: 
 
 [Training set - day 1](https://box.roc.cnam.fr/index.php/s/Rca6HcleNsEpXMs)
 
