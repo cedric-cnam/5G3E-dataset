@@ -1,4 +1,4 @@
-** 5G3E (5G End-to-End Emulation) dataset
+# 5G3E (5G End-to-End Emulation) dataset
 
 The 5G3E (5G End-to-End Emulation) dataset contains monitoring metrics of a virtualized 5G infrastructure.
 
@@ -6,10 +6,10 @@ The dataset is created using real commercial cellular network traffic anonymized
 
 The possible usages of the dataset include, but are not limited to, learning and data analysis in relation to novel network automation architectures, protocols and algorithms.
 
-
+## Dataset Version 1
 ** RELATED PUBLICATION
 
-The dataset creation process and the dataset general characteristics are decribed in this paper:
+The V1 dataset creation process and the dataset general characteristics are decribed in this paper:
 
 Dung Chi Phung, Nour-El-Houda yellas, Salah Bin Ruba, Stefano Secci. An Open Dataset for Beyond-5G Data-driven Network Automation Experiments. 2022 1st International Conference on 6G Networking (6GNet), Jul 2022, Paris, 6-8 July 2022. hal-03698732. https://hal.archives-ouvertes.fr/hal-03698732
 
@@ -74,3 +74,22 @@ This dataset is created and maintained thanks to the support of the following pu
 - H2020 AI@EDGE (A Secure and Reusable Artificial Intelligence Platform for Edge Computing in Beyond 5G Networks) project: https://aiatedge.eu. Grant nb. 101015922.
 - AMI-5G INFLUENCE project.
 
+## Dataset Version 2
+
+### Differences with Version 1
+
+** V2 DATASET Download
+
+Version number: 2
+Release date: , 2025.
+
+
+
+Write us if need any additional information. Email: masoud.baharlouei AT cnam DOT fr and naresh.modina AT cnam DOT fr
+
+** ACKNOWLEDGEMENT
+
+This dataset is created and maintained thanks to the support of the following public-funded research projects:
+
+- ANR TREES (TowaRds Energy Efficient diStributed learning for 6G): http://cancan.roc.cnam.fr. Contract nb: ANR-24-IAS1-0004.
+- PIIEC ME/CT PART
