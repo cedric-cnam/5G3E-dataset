@@ -9,9 +9,13 @@ The second edition of the 5G3E dataset is assembled thanks to an updated testbed
 
 **Key Improvements in V2**
 
+- V2 utilizes the cloud-native 5G Standalone (SA) Core Network architecture, a critical shift from the 4G-anchored Non-Standalone (NSA) implementation used in V1.
+
 - Updated Software Stack ⚙️: All major open-source components—Open5GS (Core), srsUE, and srsGNB (RAN)—have been upgraded to their latest stable versions, ensuring modern protocol compliance and features.
+
 - End-to-End Containerization 🐳: Every network function, from the Core Network (CN) components to the gNodeB (gNB) and User Equipment (UE) emulation, now runs as an independent container. This critical change enables the collection of per-container metrics and simplifies deployment/reproducibility across the entire system.
-- Expanded Metrics Coverage 📊: The latest Open5GS release exposes dedicated metrics endpoints, allowing for the collection of detailed operational and performance metrics from key Core Network Functions (NFs), including the AMF, PCF, SMF, and UPF.
+
+- Expanded Metrics Coverage 📊: The latest Open5GS release significantly enhances operational visibility by exposing dedicated, standardized metrics endpoints across key Core Network Functions (AMF, PCF, SMF, and UPF). This capability, compliant with the 3GPP performance measurement standard (TS 28.552), is crucial for defining and assuring the 5G Key Performance Indicators (KPIs) specified in TS 28.554, allowing for proactive performance monitoring and service assurance.
 
 **Availability**
 
