@@ -61,5 +61,6 @@ We are open to support other custom requirements.
 
 This dataset is created and maintained thanks to the support of the following public-funded research projects:
 
-- ANR TREES (TowaRds Energy Efficient diStributed learning for 6G): http://cancan.roc.cnam.fr. Contract nb: ANR-24-IAS1-0004.
+- ANR TREES (TowaRds Energy Efficient diStributed learning for 6G): https://trees.roc.cnam.fr. Contract nb: ANR-24-IAS1-0004.
 - PIIEC ME/CT PART
+- ANR COCO 5G: https://coco5g.roc.cnam.fr. Contract nb: ANR-22-CE25-0016.
