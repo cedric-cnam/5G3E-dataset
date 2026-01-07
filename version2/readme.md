@@ -17,7 +17,7 @@ The second edition of the 5G3E dataset is assembled thanks to an updated testbed
 
 - Expanded Metrics Coverage 📊: The latest Open5GS release significantly enhances operational visibility by exposing dedicated, standardized metrics endpoints across key Core Network Functions (AMF, PCF, SMF, and UPF). This capability, compliant with the 3GPP performance measurement standard (TS 28.552), is crucial for defining and assuring the 5G Key Performance Indicators (KPIs) specified in TS 28.554, allowing for proactive performance monitoring and service assurance.
 
-**Availability**
+## **Availability**
 
 A sample of the dataset corresponding to Day 10 of the collected training metrics is available for download.
 
@@ -36,10 +36,41 @@ A sample of the dataset corresponding to Day 10 of the collected training metric
 | NFV* | - | - | - | - | 20 – 25 | 13-28 | 4 |
 
 
-> [!NOTE] 
-> The complete 5G3E V2 dataset will be released soon.
 
-Write us if need any additional information. Email: masoud.baharlouei AT cnam DOT fr and naresh.modina AT cnam DOT fr
+**Full Dataset Download Links**
+> [!NOTE] 
+> The links are password protected, please [contact](#contact) us to gain access.
+> The size of each day is approximately 4 GiB.
+
+[Day1](https://box.roc.cnam.fr/index.php/s/EarkQpZbxR9ke7G)
+
+[Day2](https://box.roc.cnam.fr/index.php/s/YzwWayWsJaPMByB)
+
+[Day3](https://box.roc.cnam.fr/index.php/s/638YgYPQZKdtRBN)
+
+[Day4](https://box.roc.cnam.fr/index.php/s/EjnRgTjJ9bzBBgD)
+
+[Day5](https://box.roc.cnam.fr/index.php/s/6KebiieXCdKqM9Z)
+
+[Day6](https://box.roc.cnam.fr/index.php/s/Zr8i7D5cEnXw9yW)
+
+[Day7](https://box.roc.cnam.fr/index.php/s/o7EqTFbpKjj9yg4)
+
+[Day8](https://box.roc.cnam.fr/index.php/s/oaBt2oAafTnLk3C)
+
+[Day9](https://box.roc.cnam.fr/index.php/s/LKEmJ2KPKMzj3c7)
+
+[Day10](https://box.roc.cnam.fr/index.php/s/JMoyneT4FeL3N7q)
+
+[Day11](https://box.roc.cnam.fr/index.php/s/wAMFnwywNyPntSW)
+
+[Day12](https://box.roc.cnam.fr/index.php/s/8zM5GY2wRiSJ85o)
+
+[Day13](https://box.roc.cnam.fr/index.php/s/RwbfQy92eb2RESs)
+
+[Day14](https://box.roc.cnam.fr/index.php/s/3BYENGRBxBqAJer)
+
+
 
 **Custom demands**
 
@@ -64,3 +95,7 @@ This dataset is created and maintained thanks to the support of the following pu
 - ANR TREES (TowaRds Energy Efficient diStributed learning for 6G): https://trees.roc.cnam.fr. Contract nb: ANR-24-IAS1-0004.
 - PIIEC ME/CT PART
 - ANR COCO 5G: https://coco5g.roc.cnam.fr. Contract nb: ANR-22-CE25-0016.
+
+## **Contact**
+
+Write us if need any additional information. Email: masoud.baharlouei AT cnam DOT fr and naresh.modina AT cnam DOT fr
