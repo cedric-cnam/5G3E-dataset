@@ -31,7 +31,7 @@ Additional versions with additional features (protocols, network functions, with
 Version number: 2
 Release date: Dec 8, 2025.
 
-[Download links and more informations](version2/readme.md)
+[Download links and more informations](version2/README.md)
 
 ---
 

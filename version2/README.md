@@ -3,7 +3,7 @@
 **Version:** 2  
 **Release Date:** Dec 8, 2025
 
-The first edition of the dataset contains time-series system metrics related to the observation of multiple resources involved in 5G network operation: radio, computing, and network resources. The variety of collected features ranges from radio front-end metrics to physical server, from operating system to network function metrics. A few thousand such features are collected, grouped by resource type and/or node type. For more details, check the version-1 [readme.md](../version1/README.md) file.
+The first edition of the dataset contains time-series system metrics related to the observation of multiple resources involved in 5G network operation: radio, computing, and network resources. The variety of collected features ranges from radio front-end metrics to physical server, from operating system to network function metrics. A few thousand such features are collected, grouped by resource type and/or node type. For more details, check the version-1 [README.md](../version1/README.md) file.
 
 The second edition of the 5G3E dataset is assembled thanks to an updated testbed, which introduces a fully cloud-native, containerized deployment of the complete 5G stack. While the first version of the testbed containerized only the core network on Kubernetes, V2 extends this approach to include both the Core Network (CN) and the Radio Access Network (RAN). This full-stack containerization provides access to a far richer and more granular set of end-to-end performance and operational metrics. The current iteration of the dataset contains time-series system metrics similar to those in Version 1 but features expanded metric coverage, the time interval for the collection is 300ms.
 
@@ -26,7 +26,7 @@ A sample of the dataset corresponding to Day 10 of the collected training metric
     Files: 96
     Format: csv,json
     Duration: 10 mins
-[Click here for more information](./SampleData/readme.md)
+[Click here for more information](./SampleData/README.md)
 
 
 | Metric Level | CPU | Memory | Network | Disk | Function level | Timeseries/ node (upto) | Nb. targets |
@@ -98,4 +98,4 @@ This dataset is created and maintained thanks to the support of the following pu
 
 ## **Contact**
 
-Write us if need any additional information. Email: masoud.baharlouei AT cnam DOT fr and naresh.modina AT cnam DOT fr
+Write us if need any additional information. Email: masoud.baharlouei AT cnam DOT fr, naresh.modina AT cnam DOT fr, Stefano.Secci AT cnam DOT fr.
